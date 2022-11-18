@@ -1,0 +1,1 @@
+changed range(6,max_num) to range(1,max_num) in line 23 and execute the code.

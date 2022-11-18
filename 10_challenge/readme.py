@@ -1,0 +1,2 @@
+since the fizzbuzz class and fizzbuzz method are in same name, it is confused for the compiler to call. 
+So by including from fizzbuzz import fizzbuzz in line 11 in 10_challenge.py, we can execute the program correctly.

@@ -1,0 +1,1 @@
+add the condition i%3==0 and i%5==0 in if statement and changing the condition in last if else statement to i%3==0: and execute the code.
